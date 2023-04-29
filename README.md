@@ -1,5 +1,5 @@
 # CodersCave-Internship-Program
-In this Internship Program . I have given 5 tasks by CodersCave in which I have to use my skills like Python , Machine Learning , Data Analysis and Data visualization. In this Repository I am uploading every single thing that I have done in CodersCave.
+In this Internship Program . I have uploaded 5 tasks by CodersCave in which I have to use my skills like Python , Machine Learning , Data Analysis and Data visualization. In this Repository I am uploading every single thing that I have done in CodersCave.
 
 The 5 task that I have to perform in this Internship are :-
 
